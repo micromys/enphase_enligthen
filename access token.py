@@ -1,6 +1,3 @@
-Python code
-
-
 import json
 import requests
 user='<UserName>'
