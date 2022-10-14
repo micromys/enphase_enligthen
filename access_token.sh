@@ -1,4 +1,4 @@
-
+set -x
 user='<UserName>'
 password='<Password>'
 envoy_serial='<Envoy_SerilaNo>'
