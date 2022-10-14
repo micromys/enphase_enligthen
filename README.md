@@ -1,4 +1,4 @@
-# Enphase IQ Gateway <span style='color:red>Access Token</span>
+# Enphase IQ Gateway Access Token
 
 Get Access Token for Enphase IQ Gateways with newest firmware that requires an <b>Access Token</b> to get access with i.e. curl.
 
