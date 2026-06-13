@@ -3,7 +3,7 @@ import requests
 
 user='<UserName>'
 password='<Password>'
-envoy_serial='<Envoy_SerilaNo>'
+envoy_serial='<Envoy_SerialNo>'
 
 data = {'user[email]': user, 'user[password]': password}
 response = requests.post('https://enlighten.enphaseenergy.com/login/login.json?', data=data)
